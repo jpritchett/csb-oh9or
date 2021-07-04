@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jpritchett.github.io/csb-oh9or/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jpritchett.github.io/csb-oh9or/static/js/main.2acf202a.chunk.js",
+    "main.js.map": "https://jpritchett.github.io/csb-oh9or/static/js/main.2acf202a.chunk.js.map",
+    "runtime-main.js": "https://jpritchett.github.io/csb-oh9or/static/js/runtime-main.84952d7a.js",
+    "runtime-main.js.map": "https://jpritchett.github.io/csb-oh9or/static/js/runtime-main.84952d7a.js.map",
+    "static/js/2.9121ef15.chunk.js": "https://jpritchett.github.io/csb-oh9or/static/js/2.9121ef15.chunk.js",
+    "static/js/2.9121ef15.chunk.js.map": "https://jpritchett.github.io/csb-oh9or/static/js/2.9121ef15.chunk.js.map",
+    "index.html": "https://jpritchett.github.io/csb-oh9or/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jpritchett.github.io/csb-oh9or/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9121ef15.chunk.js.LICENSE.txt": "https://jpritchett.github.io/csb-oh9or/static/js/2.9121ef15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84952d7a.js",
+    "static/js/2.9121ef15.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2acf202a.chunk.js"
+  ]
+}
